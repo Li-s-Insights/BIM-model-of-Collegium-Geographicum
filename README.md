@@ -6,6 +6,6 @@ Visualizations have been included to the repository, for a more clear insight in
 
 
 
-## Author: Marcel Siedlich
+### Author: Marcel Siedlich
 
-## License: GNU General Public License v3.0
+### License: GNU General Public License v3.0

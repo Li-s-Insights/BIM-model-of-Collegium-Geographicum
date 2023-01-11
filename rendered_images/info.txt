@@ -1,3 +1,0 @@
-Renders of the BIM model of Collegium Geographicum.
-
-@Marcel Siedlich
